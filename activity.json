@@ -23,33 +23,27 @@
   "outputs": [
     {
       "name": "FileName",
-      "type": "string",
-	  "repeating": "true"
+      "type": "string"
     },
 	{
       "name": "Directory",
-      "type": "string",
-	  "repeating": "true"
+      "type": "string"
     },
 	{
       "name": "Extension",
-      "type": "string",
-	  "repeating": "true"
+      "type": "string"
     },
 	{
       "name": "Size",
-      "type": "string",
-	  "repeating": "true"
+      "type": "string"
     },
 	{
       "name": "ModTime",
-      "type": "string",
-	  "repeating": "true"
+      "type": "string"
     },
 	{
       "name": "MinutesDiff",
-      "type": "int",
-	  "repeating": "true"
+      "type": "int"
     }
   ]
 }
